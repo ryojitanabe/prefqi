@@ -1,6 +1,6 @@
 # Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point
 
-This repository provides the Python implementation of preference-based quality indicators used in the following paper.
+This repository provides the Python implementation of the 14 preference-based quality indicators used in the following paper.
 
 > Ryoji Tanabe, Ke Li, **Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis**, submitted.
 
@@ -10,7 +10,7 @@ This code require Python (=>3.8), [pygmo](https://esa.github.io/pygmo2/index.htm
 
 ## Usage
 
-The following command calculates the MASF values of the 10 point sets on the Pareto front of the DTLZ2 problem (see Fig. 2 in the paper):
+In the initial setting, the following command calculates the MASF values of the 10 point sets on the Pareto front of the DTLZ2 problem (see Fig. 2 in the paper):
 
 ```
 python qindicator.py
