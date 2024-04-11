@@ -2,7 +2,7 @@
 
 This repository provides the Python implementation of the 14 preference-based quality indicators used in the following paper.
 
-> Ryoji Tanabe, Ke Li, **Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis**, submitted.
+> Ryoji Tanabe, Ke Li, **Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis**, IEEE Transactions on Evolutionary Computation, [pdf](https://arxiv.org/abs/2301.12148), [link](https://ieeexplore.ieee.org/document/10268021).
 
 ## Requirements
 
